@@ -3,6 +3,6 @@
 在此非常感谢原作者，还亲自远程帮我解决了很多问题。
 我的QQ 2269597593 ，有问题可以联系我。
 ### 月份效果
-<img src="https://github.com/yuer01/CalendarviewForEclipse/xiaoguo/1.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/simple.jpeg" height="650"/>
+<img src="https://github.com/yuer01/CalendarviewForEclipse/xiaoguo/1.png" height="650"/>
 ### 星期效果
-<img src="https://github.com/yuer01/CalendarviewForEclipse/xiaoguo/2.png" height="650"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/huanghaibin-dev/CalendarView/blob/master/app/src/main/assets/simple.jpeg" height="650"/>
+<img src="https://github.com/yuer01/CalendarviewForEclipse/xiaoguo/2.png" height="650"/>
