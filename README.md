@@ -1,1 +1,2 @@
 # CalendarviewForEclipse
+直接导入到eclipse里面即可
